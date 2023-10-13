@@ -1,0 +1,91 @@
+div {
+border: 5px;
+border-color: #fbd2c9;
+border-style: solid;
+margin: 21px;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+
+.header {
+    background-color: #fbd2c9;
+    font-family: 'Merriweather',bold 700 italic;
+    font-size: 35px;
+    color: #774a62;
+    text-align: center;
+    padding: 30px 10px 30px 10px;
+}
+
+.content {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color:#774a62;
+    text-align: justify;
+    padding: 30px 10px 30px 10px;
+
+}
+
+.content2 {
+    font-family: 'Merriweather', serif;
+    font-size:18px;
+    color:#774a62;
+    text-align: justify;
+    padding: 30px 10px 30px 10px;
+}
+
+.footer {
+    background-color: #fbd2c9;
+    padding: 30px 10px 30px 10px;
+    font-family: 'Merriweather', serif;
+    font-size: 21px;
+    color:#774a62
+  }
+
+@media screen and (max-width: 767px) {
+    .content {
+      width: 95%;
+    }
+    .content2 {
+        width: 95%;
+      }
+    .header {
+      width: 95%;
+      font-size: 35px;
+      padding: 30px 10px 30px 10px
+    }
+    .footer {
+        width: 95%;
+      }
+  }
+  @media screen and (min-width: 768px) {
+    .content {
+      width: 95%;
+    }
+    .content2 {
+        width: 95%;
+      }
+    .header {
+      width: 95%;
+      font-size: 35px;
+      padding: 30px 10px 30px 10px
+    }
+    .footer {
+        width: 95%;
+      }
+  }
+  @media screen and (min-width: 1025px) {
+    .content {
+      width: 95%;
+    }
+    .content2 {
+        width: 95%;
+      }
+    .header {
+      width: 95%;
+      font-size: 35px;
+      padding: 30px 10px 30px 10px
+    }
+    .footer {
+        width: 95%;
+      }
+  }
