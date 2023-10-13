@@ -20,7 +20,7 @@ div {
         font-family: 'Merriweather',bold 700 italic;
         font-size: 18px;
         color:#313e61;
-        text-align: justify;
+        text-align: left;
         padding: 30px 10px 30px 10px;
         
     }
@@ -37,7 +37,7 @@ div {
         font-family: 'Merriweather', bold 700 italic;
         font-size:18px;
         color:#313e61;
-        text-align: justify;
+        text-align: left;
         padding: 30px 10px 30px 10px;
     
     }
